@@ -15,4 +15,4 @@ dafafsdafafsfsafsafdafafsfsafsafdafafsfsafsafdafafsfsafsafdafafsfsafsafdafafsfsa
 
 
 
-**[04. model.ipynb](https://github.com/ajskdlf64/PROJECT_New_Project/blob/master/04.%20model.ipynb)**
+**[04. Model.ipynb](https://github.com/ajskdlf64/PROJECT_New_Project/blob/master/04.%20Model.ipynb)**
