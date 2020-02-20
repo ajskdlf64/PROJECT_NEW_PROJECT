@@ -12,3 +12,7 @@ dafafsdafafsfsafsafdafafsfsafsafdafafsfsafsafdafafsfsafsafdafafsfsafsafdafafsfsa
 
 
 **[03. SK HYNIX Close Predict Model (Regression ->_ Classification)](https://github.com/ajskdlf64/PROJECT_New_Project/blob/master/03.%20SK%20HYNIX%20Close%20Predict%20Model%20(Regression%20-_%20Classification).ipynb)**
+
+
+
+**[03. SK HYNIX Close Predict Model (Regression ->_ Classification)](https://github.com/ajskdlf64/PROJECT_New_Project/blob/master/04.%20model.ipynb)**
