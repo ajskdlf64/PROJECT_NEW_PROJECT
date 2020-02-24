@@ -5,4 +5,4 @@
 
 ---
 
-**[01. Linear Regression.ipynb](https://github.com/ajskdlf64/PROJECT_Stock-Price-Predict-Model/blob/master/01.%20Linear%20Regression.ipynb)**
+**[01. Linear Regression](https://github.com/ajskdlf64/PROJECT_Stock-Price-Predict-Model/blob/master/01.%20Linear%20Regression.ipynb)**
