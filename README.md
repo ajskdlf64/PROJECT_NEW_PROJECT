@@ -35,3 +35,22 @@
 
 **15. Tensorflow 2.0 - LSTM**
 
+**16. High Price Predict.ipynb	update	13 days ago**
+
+**17. Trade Tracking.ipynb	update	13 days ago**
+
+**18. High Price Predict (수정 ver).ipynb	commit	now**
+
+**19. Trade Tracking (수정 ver).ipynb	commit	now**
+
+**20. High Price Predict (GRU).ipynb	2020-03-20 update	11 days ago**
+
+**20. portpolio.ipynb	commit	now**
+
+**2020년 3월 17일.xlsx	commit	14 days ago**
+
+**2020년 3월 18일.xlsx	commit	14 days ago**
+
+**22. [Final Model] Learning for Code.py	commit	now**
+
+**23. [Final Model] simulation.py**
